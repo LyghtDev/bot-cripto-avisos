@@ -18,8 +18,6 @@ Bot que vigila el precio de criptomonedas en tiempo real y te avisa por Telegram
 
 ## Cómo usarlo
 
-## Cómo usarlo
-
 1. Instala las librerías necesarias:
 
 ```
